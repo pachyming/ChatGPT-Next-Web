@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者填入你自己的 OpenAI API Key。",
+       "前往公众号：[张锡寒AIGC](https://mp.weixin.qq.com/s/NOHUQuUVTecprqAjXozjfw) 回复密码 免费获取密码，然后点击左下角设置按钮输入密码后解锁免费使用。\n提示： 能免费GPT-4吗？\n回答：太贵了，一次对话一块钱，每天经常用3.5足，后续降价的话，会考虑开放\n\n卡顿或者没有反应？可能是用户量太大大👉[点这里获得独立账号KEY使用](https://shoping.dzbz555.top)\n已补充额度并更新版本本，更新时间：2023.05.06 16:30" ,
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -149,7 +149,7 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      SubTitle: "到公众号张锡寒的AIGC 回复【密码】获取",
       Placeholder: "请输入访问密码",
     },
     Model: "模型 (model)",
