@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-       "为了防止滥用，已开启访问密码。\n前往公众号：[张锡寒AI Generated Content](https://mp.weixin.qq.com/s/NOHUQuUVTecprqAjXozjfw) 回复【密码】免费获取密码。\n然后点击左下角设置按钮，输入密码后解锁免费使用。\n\n卡顿或者没有反应？\n提示：You exceeded your current quota, please check your plan and billing details\n可能是用户量太大大👉[点这里获得独立账号KEY使用](https://shoping.dzbz555.top/buy/1)\n\n防止域名失效，建议保存👉[我的主页](https://www.zxh.one/)，而不是本功能页\n\n👉[点我进入备用站点](https://aigc.chatdoc.link/)\n\n已补充额度并更新版本，更新时间：2023.07.20 14:11" ,
+       "为了防止滥用，已开启访问密码。\n前往公众号：[张锡寒AI Generated Content](https://mp.weixin.qq.com/s/NOHUQuUVTecprqAjXozjfw) 回复【密码】免费获取密码。\n然后点击左下角设置按钮，输入密码后解锁免费使用。\n\n卡顿？没有反应？\n或者提示：“You exceeded your current quota, please check your plan and billing details”\n可能是用户量太大，或者额度用完👉[点这里获得独立账号KEY使用](https://shoping.dzbz555.top/buy/1)\n\n防止域名失效，建议保存👉[我的主页](https://www.zxh.one/)，而不是本功能页\n\n👉[点我进入备用站点](https://aigc.chatdoc.link/)\n\n已补充额度并更新版本，更新时间：2023.08.04 11:48" ,
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
